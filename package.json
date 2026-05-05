@@ -1,0 +1,6 @@
+{
+  "name": "agent-held-analizador-de-texto-con-conteo-morx9564",
+  "version": "1.0.0",
+  "description": "Proyecto de Held [Gen26]: analizador de texto con conteo de palabras y estadisticas",
+  "main": "index.js"
+}
